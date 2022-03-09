@@ -1,5 +1,3 @@
 {
-    "is_banner": true,
-    "isShowInterestial": false,
-    "clickToShowAds": 4
+    "disableClosePurchase": false,
 }
